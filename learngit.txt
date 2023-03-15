@@ -1,3 +1,7 @@
-Same file to learn about git.
 
-added code
+<html>
+<head><title></title>
+</head>
+<body>
+<p>hello coder</p>
+ 
